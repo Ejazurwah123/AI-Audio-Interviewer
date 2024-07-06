@@ -1,0 +1,4 @@
+I am a software engineer with 5 years of experience. 
+I have a bachelor's degree in computer science from the University of California, Berkeley.
+My skills include Python, Java, and SQL.
+I have worked on several projects, including a customer relationship management (CRM) system and a data analytics platform.
