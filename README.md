@@ -1,4 +1,4 @@
-# CV Question Generator
+# AI Interviewer
 This project demonstrates how to use natural language processing (NLP) techniques to analyze the content of a CV and generate relevant questions for the candidate.
 
 ## Features
